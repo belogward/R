@@ -1,0 +1,51 @@
+Country;State;Year;fprank;rprank;pfrank;efrank;ofrank;Region;Grade;abbr;fips
+United States;Alabama;2010;45;35;2;46;38;Poludnie;Wolny;AL;1
+United States;Alaska;2010;11;32;43;19;26;Samotne Stany;Srednio wolny;AK;2
+United States;Arizona;2010;31;37;32;31;35;Dziki Zachod;Wolny;AZ;3
+United States;Arkansas;2010;28;26;11;25;23;Poludnie;Srednio wolny;AR;4
+United States;California;2010;2;4;37;2;2;Zachodnie Wybrzeze;Najmniej wolny;CA;5
+United States;Colorado;2010;36;19;42;24;33;Wielkie Rowniny;Wolny;CO;6
+United States;Connecticut;2010;10;8;34;7;7;Nowa Anglia;Najmniej wolny;CT;7
+United States;Delaware;2010;24;22;25;20;21;Wschodnie Wybrzeze;Srednio wolny;DE;8
+United States;Florida;2010;46;30;20;45;44;Samotne Stany;Najbardziej wolny;FL;9
+United States;Georgia;2010;39;38;14;42;39;Poludnie;Wolny;GA;10
+United States;Hawaii;2010;3;14;30;6;5;Samotne Stany;Najmniej wolny;HI;11
+United States;Idaho;2010;41;50;6;49;46;Wielkie Rowniny;Najbardziej wolny;ID;12
+United States;Illinois;2010;7;15;1;13;6;Pas Przemyslowy;Najmniej wolny;IL;13
+United States;Indiana;2010;27;43;39;35;41;Pas Przemyslowy;Najbardziej wolny;IN;14
+United States;Iowa;2010;32;46;45;40;47;Wielkie Rowniny;Najbardziej wolny;IA;15
+United States;Kansas;2010;14;45;24;30;29;Wielkie Rowniny;Srednio wolny;KS;16
+United States;Kentucky;2010;26;24;7;22;17;Poludnie;Malo wolny;KY;17
+United States;Louisiana;2010;21;17;18;17;16;Poludnie;Malo wolny;LA;18
+United States;Maine;2010;5;5;50;5;9;Nowa Anglia;Najmniej wolny;ME;19
+United States;Maryland;2010;34;2;19;4;4;Wschodnie Wybrzeze;Najmniej wolny;MD;20
+United States;Massachusetts;2010;23;6;47;9;13;Nowa Anglia;Malo wolny;MA;21
+United States;Michigan;2010;25;31;21;26;24;Pas Przemyslowy;Srednio wolny;MI;22
+United States;Minnesota;2010;6;16;41;16;15;Wielkie Rowniny;Malo wolny;MN;23
+United States;Mississippi;2010;19;41;4;29;22;Poludnie;Srednio wolny;MS;24
+United States;Missouri;2010;44;29;35;39;43;Wielkie Rowniny;Najbardziej wolny;MO;25
+United States;Montana;2010;43;25;23;36;37;Wielkie Rowniny;Wolny;MT;26
+United States;Nebraska;2010;18;47;26;33;32;Wielkie Rowniny;Wolny;NE;27
+United States;Nevada;2010;30;27;49;27;40;Dziki Zachod;Wolny;NV;28
+United States;New Hampshire;2010;49;18;44;44;49;Nowa Anglia;Najbardziej wolny;NH;29
+United States;New Jersey;2010;8;3;33;3;3;Wschodnie Wybrzeze;Najmniej wolny;NJ;30
+United States;New Mexico;2010;9;13;48;14;20;Dziki Zachod;Malo wolny;NM;31
+United States;New York;2010;1;1;15;1;1;Wschodnie Wybrzeze;Najmniej wolny;NY;32
+United States;North Carolina;2010;33;23;36;23;25;Poludnie;Srednio wolny;NC;33
+United States;North Dakota;2010;38;39;28;43;42;Wielkie Rowniny;Najbardziej wolny;ND;34
+United States;Ohio;2010;22;21;13;18;18;Pas Przemyslowy;Malo wolny;OH;35
+United States;Oklahoma;2010;47;42;8;48;45;Wielkie Rowniny;Najbardziej wolny;OK;36
+United States;Oregon;2010;17;10;38;15;14;Zachodnie Wybrzeze;Malo wolny;OR;37
+United States;Pennsylvania;2010;37;20;29;28;28;Wschodnie Wybrzeze;Srednio wolny;PA;38
+United States;Rhode Island;2010;20;7;31;11;8;Nowa Anglia;Najmniej wolny;RI;39
+United States;South Carolina;2010;35;40;17;37;36;Poludnie;Wolny;SC;40
+United States;South Dakota;2010;50;49;5;50;50;Wielkie Rowniny;Najbardziej wolny;SD;41
+United States;Tennessee;2010;48;36;22;47;48;Poludnie;Najbardziej wolny;TN;42
+United States;Texas;2010;40;28;9;34;27;Dziki Zachod;Srednio wolny;TX;43
+United States;Utah;2010;29;44;12;38;34;Dziki Zachod;Wolny;UT;44
+United States;Vermont;2010;4;12;46;8;11;Nowa Anglia;Malo wolny;VT;45
+United States;Virginia;2010;42;34;3;41;31;Wschodnie Wybrzeze;Wolny;VA;46
+United States;Washington;2010;16;9;40;10;10;Zachodnie Wybrzeze;Najmniej wolny;WA;47
+United States;West Virginia;2010;12;11;27;12;12;Wschodnie Wybrzeze;Malo wolny;WV;48
+United States;Wisconsin;2010;13;33;10;21;19;Pas Przemyslowy;Malo wolny;WI;49
+United States;Wyoming;2010;15;48;16;32;30;Wielkie Rowniny;Srednio wolny;WY;50

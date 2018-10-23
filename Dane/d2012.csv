@@ -1,0 +1,51 @@
+Country;State;Year;fprank;rprank;pfrank;efrank;ofrank;Region;Grade;abbr;fips
+United States;Alabama;2012;45;34;2;44;32;Poludnie;Wolny;AL;1
+United States;Alaska;2012;37;35;37;36;42;Samotne Stany;Najbardziej wolny;AK;2
+United States;Arizona;2012;32;32;34;28;35;Dziki Zachod;Wolny;AZ;3
+United States;Arkansas;2012;28;30;10;26;23;Poludnie;Srednio wolny;AR;4
+United States;California;2012;4;2;38;2;2;Zachodnie Wybrzeze;Najmniej wolny;CA;5
+United States;Colorado;2012;31;25;45;25;38;Wielkie Rowniny;Wolny;CO;6
+United States;Connecticut;2012;6;5;39;6;7;Nowa Anglia;Najmniej wolny;CT;7
+United States;Delaware;2012;15;18;26;17;14;Wschodnie Wybrzeze;Malo wolny;DE;8
+United States;Florida;2012;47;31;19;46;44;Samotne Stany;Najbardziej wolny;FL;9
+United States;Georgia;2012;39;37;14;41;36;Poludnie;Wolny;GA;10
+United States;Hawaii;2012;2;9;21;3;3;Samotne Stany;Najmniej wolny;HI;11
+United States;Idaho;2012;41;50;1;49;43;Wielkie Rowniny;Najbardziej wolny;ID;12
+United States;Illinois;2012;3;12;24;8;6;Pas Przemyslowy;Najmniej wolny;IL;13
+United States;Indiana;2012;24;49;42;40;47;Pas Przemyslowy;Najbardziej wolny;IN;14
+United States;Iowa;2012;19;45;44;33;45;Wielkie Rowniny;Najbardziej wolny;IA;15
+United States;Kansas;2012;12;48;11;29;26;Wielkie Rowniny;Srednio wolny;KS;16
+United States;Kentucky;2012;25;23;3;20;12;Poludnie;Malo wolny;KY;17
+United States;Louisiana;2012;36;16;17;21;21;Poludnie;Srednio wolny;LA;18
+United States;Maine;2012;7;7;50;7;10;Nowa Anglia;Najmniej wolny;ME;19
+United States;Maryland;2012;23;3;31;5;5;Wschodnie Wybrzeze;Najmniej wolny;MD;20
+United States;Massachusetts;2012;21;10;46;15;22;Nowa Anglia;Srednio wolny;MA;21
+United States;Michigan;2012;30;38;22;32;34;Pas Przemyslowy;Wolny;MI;22
+United States;Minnesota;2012;8;17;40;10;11;Wielkie Rowniny;Malo wolny;MN;23
+United States;Mississippi;2012;10;41;5;23;17;Poludnie;Malo wolny;MS;24
+United States;Missouri;2012;42;27;33;39;39;Wielkie Rowniny;Wolny;MO;25
+United States;Montana;2012;44;21;20;31;30;Wielkie Rowniny;Srednio wolny;MT;26
+United States;Nebraska;2012;22;44;18;35;33;Wielkie Rowniny;Wolny;NE;27
+United States;Nevada;2012;29;28;49;24;41;Dziki Zachod;Najbardziej wolny;NV;28
+United States;New Hampshire;2012;49;22;43;45;49;Nowa Anglia;Najbardziej wolny;NH;29
+United States;New Jersey;2012;11;4;32;4;4;Wschodnie Wybrzeze;Najmniej wolny;NJ;30
+United States;New Mexico;2012;9;13;47;11;18;Dziki Zachod;Malo wolny;NM;31
+United States;New York;2012;1;1;29;1;1;Wschodnie Wybrzeze;Najmniej wolny;NY;32
+United States;North Carolina;2012;34;26;30;27;28;Poludnie;Srednio wolny;NC;33
+United States;North Dakota;2012;35;42;28;42;40;Wielkie Rowniny;Wolny;ND;34
+United States;Ohio;2012;20;19;12;18;15;Pas Przemyslowy;Malo wolny;OH;35
+United States;Oklahoma;2012;46;40;9;47;46;Wielkie Rowniny;Najbardziej wolny;OK;36
+United States;Oregon;2012;17;15;35;16;16;Zachodnie Wybrzeze;Malo wolny;OR;37
+United States;Pennsylvania;2012;38;14;25;22;24;Wschodnie Wybrzeze;Srednio wolny;PA;38
+United States;Rhode Island;2012;13;6;36;9;8;Nowa Anglia;Najmniej wolny;RI;39
+United States;South Carolina;2012;27;39;23;30;31;Poludnie;Wolny;SC;40
+United States;South Dakota;2012;50;47;7;50;50;Wielkie Rowniny;Najbardziej wolny;SD;41
+United States;Tennessee;2012;48;36;16;48;48;Poludnie;Najbardziej wolny;TN;42
+United States;Texas;2012;43;24;4;34;25;Dziki Zachod;Srednio wolny;TX;43
+United States;Utah;2012;26;43;8;37;29;Dziki Zachod;Srednio wolny;UT;44
+United States;Vermont;2012;5;20;41;12;13;Nowa Anglia;Malo wolny;VT;45
+United States;Virginia;2012;40;29;6;38;27;Wschodnie Wybrzeze;Srednio wolny;VA;46
+United States;Washington;2012;18;8;48;13;20;Zachodnie Wybrzeze;Malo wolny;WA;47
+United States;West Virginia;2012;16;11;27;14;9;Wschodnie Wybrzeze;Najmniej wolny;WV;48
+United States;Wisconsin;2012;14;33;15;19;19;Pas Przemyslowy;Malo wolny;WI;49
+United States;Wyoming;2012;33;46;13;43;37;Wielkie Rowniny;Wolny;WY;50

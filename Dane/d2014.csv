@@ -1,0 +1,51 @@
+Country;State;Year;fprank;rprank;pfrank;efrank;ofrank;Region;Grade;abbr;fips
+United States;Alabama;2014;45;35;3;43;28;Poludnie;Srednio wolny;AL;1
+United States;Alaska;2014;40;33;44;41;46;Samotne Stany;Najbardziej wolny;AK;2
+United States;Arizona;2014;35;31;37;28;37;Dziki Zachod;Wolny;AZ;3
+United States;Arkansas;2014;24;30;10;26;22;Poludnie;Srednio wolny;AR;4
+United States;California;2014;5;3;35;2;2;Zachodnie Wybrzeze;Najmniej wolny;CA;5
+United States;Colorado;2014;29;26;49;24;41;Wielkie Rowniny;Najbardziej wolny;CO;6
+United States;Connecticut;2014;7;5;36;6;6;Nowa Anglia;Najmniej wolny;CT;7
+United States;Delaware;2014;22;18;20;17;20;Wschodnie Wybrzeze;Malo wolny;DE;8
+United States;Florida;2014;47;32;15;45;43;Samotne Stany;Najbardziej wolny;FL;9
+United States;Georgia;2014;37;37;8;39;29;Poludnie;Srednio wolny;GA;10
+United States;Hawaii;2014;2;10;14;3;3;Samotne Stany;Najmniej wolny;HI;11
+United States;Idaho;2014;43;50;6;49;44;Wielkie Rowniny;Najbardziej wolny;ID;12
+United States;Illinois;2014;3;11;32;7;7;Pas Przemyslowy;Najmniej wolny;IL;13
+United States;Indiana;2014;25;49;45;40;48;Pas Przemyslowy;Najbardziej wolny;IN;14
+United States;Iowa;2014;21;46;39;35;42;Wielkie Rowniny;Najbardziej wolny;IA;15
+United States;Kansas;2014;18;47;27;34;35;Wielkie Rowniny;Wolny;KS;16
+United States;Kentucky;2014;23;23;1;19;10;Poludnie;Najmniej wolny;KY;17
+United States;Louisiana;2014;32;16;12;20;17;Poludnie;Malo wolny;LA;18
+United States;Maine;2014;8;7;47;8;9;Nowa Anglia;Najmniej wolny;ME;19
+United States;Maryland;2014;17;2;25;5;5;Wschodnie Wybrzeze;Najmniej wolny;MD;20
+United States;Massachusetts;2014;15;12;40;16;18;Nowa Anglia;Malo wolny;MA;21
+United States;Michigan;2014;33;36;13;30;27;Pas Przemyslowy;Srednio wolny;MI;22
+United States;Minnesota;2014;6;17;43;11;14;Wielkie Rowniny;Malo wolny;MN;23
+United States;Mississippi;2014;10;40;4;23;15;Poludnie;Malo wolny;MS;24
+United States;Missouri;2014;42;27;23;37;33;Wielkie Rowniny;Wolny;MO;25
+United States;Montana;2014;44;21;30;31;34;Wielkie Rowniny;Wolny;MT;26
+United States;Nebraska;2014;19;43;11;29;26;Wielkie Rowniny;Srednio wolny;NE;27
+United States;Nevada;2014;26;29;48;25;40;Dziki Zachod;Wolny;NV;28
+United States;New Hampshire;2014;50;22;42;46;50;Nowa Anglia;Najbardziej wolny;NH;29
+United States;New Jersey;2014;11;4;24;4;4;Wschodnie Wybrzeze;Najmniej wolny;NJ;30
+United States;New Mexico;2014;9;13;50;12;21;Dziki Zachod;Srednio wolny;NM;31
+United States;New York;2014;1;1;22;1;1;Wschodnie Wybrzeze;Najmniej wolny;NY;32
+United States;North Carolina;2014;34;25;38;27;32;Poludnie;Wolny;NC;33
+United States;North Dakota;2014;36;45;16;44;39;Wielkie Rowniny;Wolny;ND;34
+United States;Ohio;2014;27;20;7;18;16;Pas Przemyslowy;Malo wolny;OH;35
+United States;Oklahoma;2014;46;41;21;47;49;Wielkie Rowniny;Najbardziej wolny;OK;36
+United States;Oregon;2014;12;15;31;14;13;Zachodnie Wybrzeze;Malo wolny;OR;37
+United States;Pennsylvania;2014;38;14;28;21;25;Wschodnie Wybrzeze;Srednio wolny;PA;38
+United States;Rhode Island;2014;13;6;34;9;8;Nowa Anglia;Najmniej wolny;RI;39
+United States;South Carolina;2014;28;39;33;32;36;Poludnie;Wolny;SC;40
+United States;South Dakota;2014;48;44;5;50;47;Wielkie Rowniny;Najbardziej wolny;SD;41
+United States;Tennessee;2014;49;38;9;48;45;Poludnie;Najbardziej wolny;TN;42
+United States;Texas;2014;41;24;2;33;23;Dziki Zachod;Srednio wolny;TX;43
+United States;Utah;2014;31;42;18;38;31;Dziki Zachod;Wolny;UT;44
+United States;Vermont;2014;4;19;41;10;11;Nowa Anglia;Malo wolny;VT;45
+United States;Virginia;2014;39;28;17;36;30;Wschodnie Wybrzeze;Srednio wolny;VA;46
+United States;Washington;2014;16;8;46;13;19;Zachodnie Wybrzeze;Malo wolny;WA;47
+United States;West Virginia;2014;20;9;29;15;12;Wschodnie Wybrzeze;Malo wolny;WV;48
+United States;Wisconsin;2014;14;34;26;22;24;Pas Przemyslowy;Srednio wolny;WI;49
+United States;Wyoming;2014;30;48;19;42;38;Wielkie Rowniny;Wolny;WY;50

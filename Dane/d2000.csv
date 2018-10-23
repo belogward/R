@@ -1,0 +1,51 @@
+Country;State;Year;fprank;rprank;pfrank;efrank;ofrank;Region;Grade;abbr;fips
+United States;Alabama;2000;46;33;5;47;36;Poludnie;Wolny;AL;1
+United States;Alaska;2000;14;40;49;24;39;Samotne Stany;Wolny;AK;2
+United States;Arizona;2000;23;41;24;35;34;Dziki Zachod;Wolny;AZ;3
+United States;Arkansas;2000;39;18;10;25;24;Poludnie;Srednio wolny;AR;4
+United States;California;2000;6;2;34;2;2;Zachodnie Wybrzeze;Najmniej wolny;CA;5
+United States;Colorado;2000;41;25;35;33;35;Wielkie Rowniny;Wolny;CO;6
+United States;Connecticut;2000;15;8;31;9;7;Nowa Anglia;Najmniej wolny;CT;7
+United States;Delaware;2000;13;32;12;21;21;Wschodnie Wybrzeze;Srednio wolny;DE;8
+United States;Florida;2000;47;22;21;38;38;Samotne Stany;Wolny;FL;9
+United States;Georgia;2000;28;37;9;32;28;Poludnie;Srednio wolny;GA;10
+United States;Hawaii;2000;2;13;25;4;4;Samotne Stany;Najmniej wolny;HI;11
+United States;Idaho;2000;27;50;3;44;33;Wielkie Rowniny;Wolny;ID;12
+United States;Illinois;2000;29;14;7;18;12;Pas Przemyslowy;Malo wolny;IL;13
+United States;Indiana;2000;42;42;45;46;48;Pas Przemyslowy;Najbardziej wolny;IN;14
+United States;Iowa;2000;33;44;38;40;45;Wielkie Rowniny;Najbardziej wolny;IA;15
+United States;Kansas;2000;25;49;23;43;44;Wielkie Rowniny;Najbardziej wolny;KS;16
+United States;Kentucky;2000;17;26;32;20;25;Poludnie;Srednio wolny;KY;17
+United States;Louisiana;2000;10;17;20;15;11;Poludnie;Malo wolny;LA;18
+United States;Maine;2000;3;5;46;3;6;Nowa Anglia;Najmniej wolny;ME;19
+United States;Maryland;2000;30;4;19;5;3;Wschodnie Wybrzeze;Najmniej wolny;MD;20
+United States;Massachusetts;2000;22;6;47;11;16;Nowa Anglia;Malo wolny;MA;21
+United States;Michigan;2000;18;28;14;22;23;Pas Przemyslowy;Srednio wolny;MI;22
+United States;Minnesota;2000;5;21;48;10;14;Wielkie Rowniny;Malo wolny;MN;23
+United States;Mississippi;2000;12;36;8;23;20;Poludnie;Malo wolny;MS;24
+United States;Missouri;2000;44;31;22;41;42;Wielkie Rowniny;Najbardziej wolny;MO;25
+United States;Montana;2000;34;27;30;27;30;Wielkie Rowniny;Srednio wolny;MT;26
+United States;Nebraska;2000;32;48;16;45;43;Wielkie Rowniny;Najbardziej wolny;NE;27
+United States;Nevada;2000;43;30;42;39;46;Dziki Zachod;Najbardziej wolny;NV;28
+United States;New Hampshire;2000;50;19;40;48;49;Nowa Anglia;Najbardziej wolny;NH;29
+United States;New Jersey;2000;36;3;18;6;5;Wschodnie Wybrzeze;Najmniej wolny;NJ;30
+United States;New Mexico;2000;4;16;50;7;15;Dziki Zachod;Malo wolny;NM;31
+United States;New York;2000;1;1;26;1;1;Wschodnie Wybrzeze;Najmniej wolny;NY;32
+United States;North Carolina;2000;35;29;37;31;37;Poludnie;Wolny;NC;33
+United States;North Dakota;2000;26;43;28;37;40;Wielkie Rowniny;Wolny;ND;34
+United States;Ohio;2000;21;15;17;17;17;Pas Przemyslowy;Malo wolny;OH;35
+United States;Oklahoma;2000;37;24;1;29;19;Wielkie Rowniny;Malo wolny;OK;36
+United States;Oregon;2000;31;10;43;16;22;Zachodnie Wybrzeze;Srednio wolny;OR;37
+United States;Pennsylvania;2000;40;23;29;28;31;Wschodnie Wybrzeze;Wolny;PA;38
+United States;Rhode Island;2000;16;11;36;14;13;Nowa Anglia;Malo wolny;RI;39
+United States;South Carolina;2000;20;38;27;30;32;Poludnie;Wolny;SC;40
+United States;South Dakota;2000;48;46;2;49;47;Wielkie Rowniny;Najbardziej wolny;SD;41
+United States;Tennessee;2000;49;35;33;50;50;Poludnie;Najbardziej wolny;TN;42
+United States;Texas;2000;45;20;4;34;26;Dziki Zachod;Srednio wolny;TX;43
+United States;Utah;2000;9;45;13;26;27;Dziki Zachod;Srednio wolny;UT;44
+United States;Vermont;2000;11;9;41;12;8;Nowa Anglia;Najmniej wolny;VT;45
+United States;Virginia;2000;38;34;6;36;29;Wschodnie Wybrzeze;Srednio wolny;VA;46
+United States;Washington;2000;19;7;39;13;10;Zachodnie Wybrzeze;Najmniej wolny;WA;47
+United States;West Virginia;2000;8;12;44;8;9;Wschodnie Wybrzeze;Najmniej wolny;WV;48
+United States;Wisconsin;2000;7;39;11;19;18;Pas Przemyslowy;Malo wolny;WI;49
+United States;Wyoming;2000;24;47;15;42;41;Wielkie Rowniny;Najbardziej wolny;WY;50

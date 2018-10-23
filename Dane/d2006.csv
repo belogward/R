@@ -1,0 +1,51 @@
+Country;State;Year;fprank;rprank;pfrank;efrank;ofrank;Region;Grade;abbr;fips
+United States;Alabama;2006;46;37;4;45;38;Poludnie;Wolny;AL;1
+United States;Alaska;2006;9;32;43;19;26;Samotne Stany;Srednio wolny;AK;2
+United States;Arizona;2006;26;40;34;29;37;Dziki Zachod;Wolny;AZ;3
+United States;Arkansas;2006;28;27;20;25;25;Poludnie;Srednio wolny;AR;4
+United States;California;2006;3;4;40;2;2;Zachodnie Wybrzeze;Najmniej wolny;CA;5
+United States;Colorado;2006;40;33;41;39;42;Wielkie Rowniny;Najbardziej wolny;CO;6
+United States;Connecticut;2006;17;7;36;10;11;Nowa Anglia;Malo wolny;CT;7
+United States;Delaware;2006;29;19;18;22;22;Wschodnie Wybrzeze;Srednio wolny;DE;8
+United States;Florida;2006;38;28;33;32;39;Samotne Stany;Wolny;FL;9
+United States;Georgia;2006;32;34;5;34;24;Poludnie;Srednio wolny;GA;10
+United States;Hawaii;2006;2;11;24;5;4;Samotne Stany;Najmniej wolny;HI;11
+United States;Idaho;2006;44;50;10;49;47;Wielkie Rowniny;Najbardziej wolny;ID;12
+United States;Illinois;2006;21;13;1;15;7;Pas Przemyslowy;Najmniej wolny;IL;13
+United States;Indiana;2006;33;42;45;41;45;Pas Przemyslowy;Najbardziej wolny;IN;14
+United States;Iowa;2006;34;46;38;44;46;Wielkie Rowniny;Najbardziej wolny;IA;15
+United States;Kansas;2006;10;49;29;30;36;Wielkie Rowniny;Wolny;KS;16
+United States;Kentucky;2006;27;26;3;23;16;Poludnie;Malo wolny;KY;17
+United States;Louisiana;2006;7;16;11;11;9;Poludnie;Najmniej wolny;LA;18
+United States;Maine;2006;5;5;49;4;6;Nowa Anglia;Najmniej wolny;ME;19
+United States;Maryland;2006;39;2;21;7;5;Wschodnie Wybrzeze;Najmniej wolny;MD;20
+United States;Massachusetts;2006;30;6;47;13;17;Nowa Anglia;Malo wolny;MA;21
+United States;Michigan;2006;22;22;15;20;18;Pas Przemyslowy;Malo wolny;MI;22
+United States;Minnesota;2006;11;17;48;16;23;Wielkie Rowniny;Srednio wolny;MN;23
+United States;Mississippi;2006;12;41;9;26;20;Poludnie;Malo wolny;MS;24
+United States;Missouri;2006;45;31;39;42;44;Wielkie Rowniny;Najbardziej wolny;MO;25
+United States;Montana;2006;43;24;13;35;32;Wielkie Rowniny;Wolny;MT;26
+United States;Nebraska;2006;14;47;25;33;35;Wielkie Rowniny;Wolny;NE;27
+United States;Nevada;2006;41;23;46;31;43;Dziki Zachod;Najbardziej wolny;NV;28
+United States;New Hampshire;2006;50;21;32;48;50;Nowa Anglia;Najbardziej wolny;NH;29
+United States;New Jersey;2006;8;3;28;3;3;Wschodnie Wybrzeze;Najmniej wolny;NJ;30
+United States;New Mexico;2006;6;15;50;9;14;Dziki Zachod;Malo wolny;NM;31
+United States;New York;2006;1;1;27;1;1;Wschodnie Wybrzeze;Najmniej wolny;NY;32
+United States;North Carolina;2006;24;25;42;21;29;Poludnie;Srednio wolny;NC;33
+United States;North Dakota;2006;37;43;19;43;41;Wielkie Rowniny;Najbardziej wolny;ND;34
+United States;Ohio;2006;15;18;16;18;15;Pas Przemyslowy;Malo wolny;OH;35
+United States;Oklahoma;2006;47;39;2;46;40;Wielkie Rowniny;Wolny;OK;36
+United States;Oregon;2006;31;12;35;17;19;Zachodnie Wybrzeze;Malo wolny;OR;37
+United States;Pennsylvania;2006;36;20;26;27;31;Wschodnie Wybrzeze;Wolny;PA;38
+United States;Rhode Island;2006;18;10;30;12;13;Nowa Anglia;Malo wolny;RI;39
+United States;South Carolina;2006;25;38;23;28;30;Poludnie;Srednio wolny;SC;40
+United States;South Dakota;2006;49;44;7;50;48;Wielkie Rowniny;Najbardziej wolny;SD;41
+United States;Tennessee;2006;48;35;31;47;49;Poludnie;Najbardziej wolny;TN;42
+United States;Texas;2006;42;29;8;38;27;Dziki Zachod;Srednio wolny;TX;43
+United States;Utah;2006;23;45;17;36;33;Dziki Zachod;Wolny;UT;44
+United States;Vermont;2006;4;9;44;6;8;Nowa Anglia;Najmniej wolny;VT;45
+United States;Virginia;2006;35;36;6;40;28;Wschodnie Wybrzeze;Srednio wolny;VA;46
+United States;Washington;2006;16;8;37;8;10;Zachodnie Wybrzeze;Najmniej wolny;WA;47
+United States;West Virginia;2006;13;14;22;14;12;Wschodnie Wybrzeze;Malo wolny;WV;48
+United States;Wisconsin;2006;20;30;12;24;21;Pas Przemyslowy;Srednio wolny;WI;49
+United States;Wyoming;2006;19;48;14;37;34;Wielkie Rowniny;Wolny;WY;50

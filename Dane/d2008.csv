@@ -1,0 +1,51 @@
+Country;State;Year;fprank;rprank;pfrank;efrank;ofrank;Region;Grade;abbr;fips
+United States;Alabama;2008;46;32;2;45;31;Poludnie;Wolny;AL;1
+United States;Alaska;2008;9;34;44;20;27;Samotne Stany;Srednio wolny;AK;2
+United States;Arizona;2008;34;37;29;36;37;Dziki Zachod;Wolny;AZ;3
+United States;Arkansas;2008;25;28;15;24;25;Poludnie;Srednio wolny;AR;4
+United States;California;2008;4;4;35;2;2;Zachodnie Wybrzeze;Najmniej wolny;CA;5
+United States;Colorado;2008;42;22;39;33;39;Wielkie Rowniny;Wolny;CO;6
+United States;Connecticut;2008;21;8;37;9;10;Nowa Anglia;Najmniej wolny;CT;7
+United States;Delaware;2008;26;21;17;22;24;Wschodnie Wybrzeze;Srednio wolny;DE;8
+United States;Florida;2008;37;27;33;31;32;Samotne Stany;Wolny;FL;9
+United States;Georgia;2008;35;38;19;37;36;Poludnie;Wolny;GA;10
+United States;Hawaii;2008;3;12;26;6;5;Samotne Stany;Najmniej wolny;HI;11
+United States;Idaho;2008;45;50;8;49;48;Wielkie Rowniny;Najbardziej wolny;ID;12
+United States;Illinois;2008;13;13;1;14;7;Pas Przemyslowy;Najmniej wolny;IL;13
+United States;Indiana;2008;10;43;40;28;35;Pas Przemyslowy;Wolny;IN;14
+United States;Iowa;2008;28;46;34;43;45;Wielkie Rowniny;Najbardziej wolny;IA;15
+United States;Kansas;2008;12;47;32;34;34;Wielkie Rowniny;Wolny;KS;16
+United States;Kentucky;2008;24;29;4;23;16;Poludnie;Malo wolny;KY;17
+United States;Louisiana;2008;2;17;24;7;6;Poludnie;Najmniej wolny;LA;18
+United States;Maine;2008;7;5;49;4;9;Nowa Anglia;Najmniej wolny;ME;19
+United States;Maryland;2008;36;3;16;5;4;Wschodnie Wybrzeze;Najmniej wolny;MD;20
+United States;Massachusetts;2008;27;6;48;11;14;Nowa Anglia;Malo wolny;MA;21
+United States;Michigan;2008;18;30;18;19;20;Pas Przemyslowy;Malo wolny;MI;22
+United States;Minnesota;2008;11;18;46;16;19;Wielkie Rowniny;Malo wolny;MN;23
+United States;Mississippi;2008;16;39;3;26;17;Poludnie;Malo wolny;MS;24
+United States;Missouri;2008;44;31;36;42;46;Wielkie Rowniny;Najbardziej wolny;MO;25
+United States;Montana;2008;41;23;13;32;30;Wielkie Rowniny;Srednio wolny;MT;26
+United States;Nebraska;2008;22;49;20;39;38;Wielkie Rowniny;Wolny;NE;27
+United States;Nevada;2008;29;24;47;27;40;Dziki Zachod;Wolny;NV;28
+United States;New Hampshire;2008;49;16;42;40;47;Nowa Anglia;Najbardziej wolny;NH;29
+United States;New Jersey;2008;8;2;30;3;3;Wschodnie Wybrzeze;Najmniej wolny;NJ;30
+United States;New Mexico;2008;14;14;50;15;23;Dziki Zachod;Srednio wolny;NM;31
+United States;New York;2008;1;1;23;1;1;Wschodnie Wybrzeze;Najmniej wolny;NY;32
+United States;North Carolina;2008;30;25;38;29;33;Poludnie;Wolny;NC;33
+United States;North Dakota;2008;39;42;21;46;44;Wielkie Rowniny;Najbardziej wolny;ND;34
+United States;Ohio;2008;19;19;12;18;15;Pas Przemyslowy;Malo wolny;OH;35
+United States;Oklahoma;2008;47;41;7;47;43;Wielkie Rowniny;Najbardziej wolny;OK;36
+United States;Oregon;2008;31;10;41;17;21;Zachodnie Wybrzeze;Srednio wolny;OR;37
+United States;Pennsylvania;2008;38;20;28;30;29;Wschodnie Wybrzeze;Srednio wolny;PA;38
+United States;Rhode Island;2008;17;7;31;8;8;Nowa Anglia;Najmniej wolny;RI;39
+United States;South Carolina;2008;33;40;27;38;41;Poludnie;Najbardziej wolny;SC;40
+United States;South Dakota;2008;50;45;6;50;49;Wielkie Rowniny;Najbardziej wolny;SD;41
+United States;Tennessee;2008;48;36;25;48;50;Poludnie;Najbardziej wolny;TN;42
+United States;Texas;2008;43;26;9;35;26;Dziki Zachod;Srednio wolny;TX;43
+United States;Utah;2008;32;44;14;44;42;Dziki Zachod;Najbardziej wolny;UT;44
+United States;Vermont;2008;6;15;45;10;12;Nowa Anglia;Malo wolny;VT;45
+United States;Virginia;2008;40;35;5;41;28;Wschodnie Wybrzeze;Srednio wolny;VA;46
+United States;Washington;2008;23;9;43;12;13;Zachodnie Wybrzeze;Malo wolny;WA;47
+United States;West Virginia;2008;15;11;22;13;11;Wschodnie Wybrzeze;Malo wolny;WV;48
+United States;Wisconsin;2008;20;33;10;25;22;Pas Przemyslowy;Srednio wolny;WI;49
+United States;Wyoming;2008;5;48;11;21;18;Wielkie Rowniny;Malo wolny;WY;50
